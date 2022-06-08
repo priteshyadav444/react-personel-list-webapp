@@ -6,7 +6,7 @@ Implemented Login Module, Register Module, Add Item Module.
 1) clone this repo
 2) create .env file 
 3) intialize MONGO_URI and KEY <br>
-MONGO_URI=mongodb+srv://username:password@cluster0.utylj.mongodb.net/dbname
+MONGO_URI=mongodb+srv://username:password@cluster0.utylj.mongodb.net/dbname <br>
 SECRET_KEY=123456
 4) npm run dev <br>
 this will start <br> 
